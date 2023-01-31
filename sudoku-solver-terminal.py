@@ -1,7 +1,7 @@
 import pprint
 
 '''
-Solves unsolved Sudoku puzzles using backtracking algorithm
+Solves unsolved Sudoku puzzles using recursive backtracking algorithm
 '''
 
 def solve(board):
