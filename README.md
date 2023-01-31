@@ -1,7 +1,4 @@
-# Sudoku-solver
-Sudoku gameboard with several different layouts and a backtracking algorithm to solve the puzzles.
-\n
-\n\n
+# Sudoku gameboard with several different layouts and a backtracking algorithm to solve the puzzles.
 
 
 sudoku-solver-terminal is a terminal version of the Sudoku-solver that demonstrates the backtracking algorithm. You can add board examples into the file and test the algorithm's ability to solve it.
